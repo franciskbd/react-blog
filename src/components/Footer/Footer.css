@@ -1,0 +1,16 @@
+.foot {
+
+  background-color: rebeccapurple;
+  /*display: inline;*/
+  width: 100%;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
+
+.content {
+  min-height: 6vh;
+  background-color: green;
+  text-align: center;
+}
